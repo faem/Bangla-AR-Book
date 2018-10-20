@@ -18,5 +18,4 @@ augmentation. This app was developed as a part of a conference paper (submitted 
 [![AR BOOk Demo](https://img.youtube.com/vi/rYf85EDsgYc/0.jpg)](https://youtu.be/rYf85EDsgYc)
 
 ### Running Instruction:
-This project uses OpenCV for unity package. So, import it from asset store first. (It is NOT free :p)
-https://assetstore.unity.com/packages/tools/integration/opencv-for-unity-21088
+Add Vuforia
