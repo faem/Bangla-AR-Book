@@ -18,4 +18,4 @@ augmentation. This app was developed as a part of a conference paper (submitted 
 [![AR BOOk Demo](https://img.youtube.com/vi/rYf85EDsgYc/0.jpg)](https://youtu.be/rYf85EDsgYc)
 
 ### Running Instruction:
-Add Vuforia
+Add Vuforia library
